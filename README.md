@@ -4,7 +4,8 @@ This a personal project to "automate" the download of the latest Health Canada D
 *Note:* You must ensure you have SQLite3 Installed. 
 
 ### For Linux (Ubuntu)
-```sudo apt-get install sqlite3 
+```
+sudo apt-get install sqlite3 
 ```
 
 ### For Linux (Arch)
